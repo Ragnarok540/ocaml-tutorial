@@ -10,7 +10,7 @@
 - [x] 06 Palindrome (Beginner)
 - [ ] 07 Flatten a List
 - [x] 08 Eliminate Duplicates
-- [ ] 09 Pack Consecutive Duplicates
+- [x] 09 Pack Consecutive Duplicates
 - [ ] 10 Run-Length Encoding (Beginner)
 - [ ] 11 Modified Run-Length Encoding (Beginner)
 - [ ] 12 Decode a Run-Length Encoded List

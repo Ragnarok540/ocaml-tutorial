@@ -2,7 +2,11 @@ let rec compress (xs: 'a list): 'a list =
   match xs with
   | [] -> []
   | [a] -> [a]
-  | a :: b :: t -> if a = b then compress (b :: t) else a :: compress (b :: t);;
+  | a :: b :: t ->
+    if a = b then
+      compress (b :: t)
+    else
+      a :: compress (b :: t);;
 
 (* 
 

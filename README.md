@@ -12,7 +12,7 @@
 - [x] 08 Eliminate Duplicates
 - [x] 09 Pack Consecutive Duplicates
 - [x] 10 Run-Length Encoding (Beginner)
-- [ ] 11 Modified Run-Length Encoding (Beginner)
+- [x] 11 Modified Run-Length Encoding (Beginner)
 - [ ] 12 Decode a Run-Length Encoded List
 - [ ] 13 Run-Length Encoding of a List (Direct Solution)
 - [ ] 14 Duplicate the Elements of a List (Beginner)

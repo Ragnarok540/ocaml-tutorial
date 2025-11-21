@@ -8,7 +8,7 @@
 - [x] 04 Length of a List (Beginner)
 - [x] 05 Reverse a List (Beginner)
 - [x] 06 Palindrome (Beginner)
-- [ ] 07 Flatten a List
+- [x] 07 Flatten a List
 - [x] 08 Eliminate Duplicates
 - [x] 09 Pack Consecutive Duplicates
 - [x] 10 Run-Length Encoding (Beginner)

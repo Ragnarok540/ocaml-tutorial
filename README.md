@@ -13,8 +13,8 @@
 - [x] 09 Pack Consecutive Duplicates
 - [x] 10 Run-Length Encoding (Beginner)
 - [x] 11 Modified Run-Length Encoding (Beginner)
-- [ ] 12 Decode a Run-Length Encoded List
-- [ ] 13 Run-Length Encoding of a List (Direct Solution)
+- [x] 12 Decode a Run-Length Encoded List
+- [x] 13 Run-Length Encoding of a List (Direct Solution)
 - [ ] 14 Duplicate the Elements of a List (Beginner)
 - [ ] 15 Replicate the Elements of a List a Given Number of Times
 - [ ] 16 Drop Every N'th Element From a List

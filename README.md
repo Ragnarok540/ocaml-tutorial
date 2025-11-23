@@ -15,7 +15,7 @@
 - [x] 11 Modified Run-Length Encoding (Beginner)
 - [x] 12 Decode a Run-Length Encoded List
 - [x] 13 Run-Length Encoding of a List (Direct Solution)
-- [ ] 14 Duplicate the Elements of a List (Beginner)
+- [x] 14 Duplicate the Elements of a List (Beginner)
 - [ ] 15 Replicate the Elements of a List a Given Number of Times
 - [ ] 16 Drop Every N'th Element From a List
 - [ ] 17 Split a List Into Two Parts; The Length of the First Part Is Given (Beginner)

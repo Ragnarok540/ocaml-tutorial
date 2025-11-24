@@ -16,9 +16,9 @@
 - [x] 12 Decode a Run-Length Encoded List
 - [x] 13 Run-Length Encoding of a List (Direct Solution)
 - [x] 14 Duplicate the Elements of a List (Beginner)
-- [ ] 15 Replicate the Elements of a List a Given Number of Times
-- [ ] 16 Drop Every N'th Element From a List
-- [ ] 17 Split a List Into Two Parts; The Length of the First Part Is Given (Beginner)
+- [x] 15 Replicate the Elements of a List a Given Number of Times
+- [x] 16 Drop Every N'th Element From a List
+- [x] 17 Split a List Into Two Parts; The Length of the First Part Is Given (Beginner)
 - [ ] 18 Extract a Slice From a List
 - [ ] 19 Rotate a List N Places to the Left
 - [ ] 20 Remove the K'th Element From a List (Beginner)

@@ -19,8 +19,8 @@
 - [x] 15 Replicate the Elements of a List a Given Number of Times
 - [x] 16 Drop Every N'th Element From a List
 - [x] 17 Split a List Into Two Parts; The Length of the First Part Is Given (Beginner)
-- [ ] 18 Extract a Slice From a List
-- [ ] 19 Rotate a List N Places to the Left
+- [x] 18 Extract a Slice From a List
+- [x] 19 Rotate a List N Places to the Left
 - [ ] 20 Remove the K'th Element From a List (Beginner)
 - [ ] 21 Insert an Element at a Given Position Into a List (Beginner)
 - [ ] 22 Create a List Containing All Integers Within a Given Range (Beginner)

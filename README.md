@@ -21,10 +21,10 @@
 - [x] 17 Split a List Into Two Parts; The Length of the First Part Is Given (Beginner)
 - [x] 18 Extract a Slice From a List
 - [x] 19 Rotate a List N Places to the Left
-- [ ] 20 Remove the K'th Element From a List (Beginner)
-- [ ] 21 Insert an Element at a Given Position Into a List (Beginner)
-- [ ] 22 Create a List Containing All Integers Within a Given Range (Beginner)
-- [ ] 23 Extract a Given Number of Randomly Selected Elements From a List
+- [x] 20 Remove the K'th Element From a List (Beginner)
+- [x] 21 Insert an Element at a Given Position Into a List (Beginner)
+- [x] 22 Create a List Containing All Integers Within a Given Range (Beginner)
+- [x] 23 Extract a Given Number of Randomly Selected Elements From a List
 - [ ] 24 Lotto: Draw N Different Random Numbers From the Set 1..M (Beginner)
 - [ ] 25 Generate a Random Permutation of the Elements of a List (Beginner)
 - [ ] 26 Generate the Combinations of K Distinct Objects Chosen From the N Elements of a List

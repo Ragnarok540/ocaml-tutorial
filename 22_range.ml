@@ -2,7 +2,7 @@ let rec range_up (i: int) (j: int): int list =
   if i = j then
     [i]
   else
-    i :: range (i + 1) j;;
+    i :: range_up (i + 1) j;;
 
 let range (i: int) (j: int): int list =
     if i < j then

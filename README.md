@@ -25,9 +25,9 @@
 - [x] 21 Insert an Element at a Given Position Into a List (Beginner)
 - [x] 22 Create a List Containing All Integers Within a Given Range (Beginner)
 - [x] 23 Extract a Given Number of Randomly Selected Elements From a List
-- [ ] 24 Lotto: Draw N Different Random Numbers From the Set 1..M (Beginner)
-- [ ] 25 Generate a Random Permutation of the Elements of a List (Beginner)
-- [ ] 26 Generate the Combinations of K Distinct Objects Chosen From the N Elements of a List
+- [x] 24 Lotto: Draw N Different Random Numbers From the Set 1..M (Beginner)
+- [x] 25 Generate a Random Permutation of the Elements of a List (Beginner)
+- [x] 26 Generate the Combinations of K Distinct Objects Chosen From the N Elements of a List
 - [ ] 27 Group the Elements of a Set Into Disjoint Subsets
 - [ ] 28 Sorting a List of Lists According to Length of Sublists
 

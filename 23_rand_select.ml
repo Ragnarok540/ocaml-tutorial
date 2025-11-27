@@ -13,6 +13,8 @@ rlwrap ocaml
 
 #use "./23_rand_select.ml";;
 
+rand_elem ["a"; "b"; "c"; "d"; "e"; "f"; "g"; "h"];;
+
 rand_select ["a"; "b"; "c"; "d"; "e"; "f"; "g"; "h"] 3;;
 
 *)

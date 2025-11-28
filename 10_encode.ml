@@ -11,6 +11,9 @@ let encode (xs: 'a list): (int * 'a) list =
 let encode_short list =
     List.map (fun l -> (List.length l, List.hd l)) (pack list);;
 
+let encode2 list =
+    List.map (fun l -> (List.hd l, List.length l)) (pack list);;
+
 (* 
 
 rlwrap ocaml
@@ -22,5 +25,7 @@ encode ["a"; "b"; "b"; "a"];;
 encode ["a"; "a"; "a"; "a"; "b"; "c"; "c"; "a"; "a"; "d"; "e"; "e"; "e"; "e"];;
 
 encode ["a"; "a"; "a"; "a"; "b"; "c"; "c"; "a"; "a"; "d"; "d"; "e"; "e"; "e"; "e"];;
+
+encode2 ["a"; "b"; "b"; "a"];;
 
 *)

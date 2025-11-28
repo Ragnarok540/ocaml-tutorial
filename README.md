@@ -28,8 +28,8 @@
 - [x] 24 Lotto: Draw N Different Random Numbers From the Set 1..M (Beginner)
 - [x] 25 Generate a Random Permutation of the Elements of a List (Beginner)
 - [x] 26 Generate the Combinations of K Distinct Objects Chosen From the N Elements of a List
-- [ ] 27 Group the Elements of a Set Into Disjoint Subsets
-- [ ] 28 Sorting a List of Lists According to Length of Sublists
+- [x] 27 Group the Elements of a Set Into Disjoint Subsets
+- [x] 28 Sorting a List of Lists According to Length of Sublists
 
 ## Arithmetic
 

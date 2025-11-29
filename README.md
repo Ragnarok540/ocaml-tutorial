@@ -33,15 +33,15 @@
 
 ## Arithmetic
 
-- [ ] 29 Determine Whether a Given Integer Number Is Prime
-- [ ] 30 Determine the Greatest Common Divisor of Two Positive Integer Numbers
-- [ ] 31 Determine Whether Two Positive Integer Numbers Are Coprime (Beginner)
-- [ ] 32 Calculate Euler's Totient Function Φ(m)
-- [ ] 33 Determine the Prime Factors of a Given Positive Integer
-- [ ] 34 Determine the Prime Factors of a Given Positive Integer (2)
+- [x] 29 Determine Whether a Given Integer Number Is Prime
+- [x] 30 Determine the Greatest Common Divisor of Two Positive Integer Numbers
+- [x] 31 Determine Whether Two Positive Integer Numbers Are Coprime (Beginner)
+- [x] 32 Calculate Euler's Totient Function Φ(m)
+- [x] 33 Determine the Prime Factors of a Given Positive Integer
+- [x] 34 Determine the Prime Factors of a Given Positive Integer (2)
 - [ ] 35 Calculate Euler's Totient Function Φ(m) (Improved)
 - [ ] 36 Compare the Two Methods of Calculating Euler's Totient Function (Beginner)
-- [ ] 37 A List of Prime Numbers (Beginner)
+- [x] 37 A List of Prime Numbers (Beginner)
 - [ ] 38 Goldbach's Conjecture
 - [ ] 39 A List of Goldbach Compositions
 

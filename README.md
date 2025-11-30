@@ -39,15 +39,15 @@
 - [x] 32 Calculate Euler's Totient Function Φ(m)
 - [x] 33 Determine the Prime Factors of a Given Positive Integer
 - [x] 34 Determine the Prime Factors of a Given Positive Integer (2)
-- [ ] 35 Calculate Euler's Totient Function Φ(m) (Improved)
-- [ ] 36 Compare the Two Methods of Calculating Euler's Totient Function (Beginner)
+- [x] 35 Calculate Euler's Totient Function Φ(m) (Improved)
+- [x] 36 Compare the Two Methods of Calculating Euler's Totient Function (Beginner)
 - [x] 37 A List of Prime Numbers (Beginner)
-- [ ] 38 Goldbach's Conjecture
-- [ ] 39 A List of Goldbach Compositions
+- [x] 38 Goldbach's Conjecture
+- [x] 39 A List of Goldbach Compositions
 
 ## Logic and Codes
 
-- [ ] 40 Truth Tables for Logical Expressions (2 Variables)
+- [x] 40 Truth Tables for Logical Expressions (2 Variables)
 - [ ] 41 Truth Tables for Logical Expressions
 - [ ] 42 Gray Code
 - [ ] 43 Huffman Code (Advanced)

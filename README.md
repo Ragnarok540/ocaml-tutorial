@@ -48,8 +48,8 @@
 ## Logic and Codes
 
 - [x] 40 Truth Tables for Logical Expressions (2 Variables)
-- [ ] 41 Truth Tables for Logical Expressions
-- [ ] 42 Gray Code
+- [x] 41 Truth Tables for Logical Expressions
+- [x] 42 Gray Code
 - [ ] 43 Huffman Code (Advanced)
 
 ## Binary Trees

@@ -20,23 +20,6 @@ let table2 (i: string) (j: string) (expr: bool_expr): (bool * bool * bool) list 
    (false, true, eval2 i false j true expr);
    (false, false, eval2 i false j false expr)];;
 
-
-#use "./14_duplicate.ml";;
-
-let rec bool_vars (bits: int): bool list list =
-  let rec add_bool (xs: bool list list) (counter: int): bool list list =
-    match xs with
-    | [] -> []
-    | h :: t ->
-      if counter mod 2 = 0 then
-        (h @ [true]) :: add_bool t (counter + 1)
-      else
-        (h @ [false]) :: add_bool t (counter + 1) in
-  if bits = 1 then
-    [[true]; [false]]
-  else
-    add_bool (duplicate (bool_vars (bits - 1))) 0;;
-
 (* 
 
 rlwrap ocaml
@@ -52,7 +35,5 @@ eval2 "a" true "b" false (And (Var "a", Or (Var "a", Var "b")));;
 table2 "a" "b" (And (Var "a", Or (Var "a", Var "b")));;
 
 table2 "a" "b" (Not (And (Var "a", Or (Var "a", Var "b"))));;
-
-bool_vars 3;;
 
 *)

@@ -42,7 +42,7 @@ let rec heapify_down (heap: int list) (index: int): int list =
   let left_index = left_child index in
   let left_val = List.nth heap left_index in
   let right_index = right_child index in
-  let right_val = List.nth heap left_index in
+  let right_val = List.nth heap right_index in
   if left_index > len || right_index > len then
     heap
   else if current_val > left_val && current_val > right_val then
